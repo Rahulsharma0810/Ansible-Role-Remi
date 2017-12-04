@@ -1,14 +1,17 @@
 ---
 galaxy_info:
-  author: Rahul Vinod Sharma
-  description: Enable EPEL for Centos Hosts
+  author: Rahul Sharma
+  description: Enable Remi for Centos Hosts
   license:
     - GPLv2
   min_ansible_version: 2.0
   platforms:
     - name: EL
       versions:
-        - 7
+        - all
+    - name: Fedora
+      versions:
+        - all
 
   galaxy_tags:
     - development

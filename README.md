@@ -1,6 +1,6 @@
 Ansible-Role-Remi
 =========
-Role to install and setup remi repo in Debian and Rpms, Remi enable wide variety package along with native pacakge manager.
+Role to install and setup remi repo Rpm based system, Remi enable wide variety package along with native pacakge manager.
 
 Example Playbook
 ----------------
